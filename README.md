@@ -1,4 +1,4 @@
 # Test
 For assignment
 
-I made a change here, on the "other branch".
+Now, I merged the pull request I sent earlier, which allows the changes made in "other branch" to replace what I originally had in the master branch.
